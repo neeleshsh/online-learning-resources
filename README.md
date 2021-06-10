@@ -825,6 +825,7 @@ This is a list of resources for self-study of software-related topics and skills
 ## Jenkins 
 
 - [Jenkins Tutorial](https://www.guru99.com/jenkins-tutorial.html) - Guru99
+- [Jenkins Tutorial for Beginners](https://intellipaat.com/blog/tutorial/devops-tutorial/jenkins-tutorial/) - Intellipaat
 - [Jenkins Tutorial](https://www.tutorialspoint.com/jenkins/) - Tutorials Point
 - [Jenkins Documentation](https://jenkins.io/doc/) - Jenkins
 - [Learn Jenkins from a DevOps Guru](https://www.udemy.com/course/jenkins-devops-pipeline-as-code/) - Udemy
